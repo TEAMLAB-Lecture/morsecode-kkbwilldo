@@ -166,3 +166,6 @@ class TestMorseCode(unittest.TestCase):
             "K": "-.-", "X": "-..-", "J": ".---", "W": ".--", "L": ".-..", "Y": "-.--", "M": "--", "Z": "--.."
         }
         return morse_code
+
+
+unittest.main()
